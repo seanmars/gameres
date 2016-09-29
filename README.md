@@ -33,3 +33,7 @@
 
 - https://medium.freecodecamp.com/learning-javascript-by-making-a-game-4aca51ad9030#.ftu01zb9f
 - https://www.manamark.com/blog/2016/09/22/20-free-game-assets-and-paid-gamedev/
+
+# Blog
+
+- [Game Art Tricks/Game Design Tricks](https://simonschreibt.de/)
