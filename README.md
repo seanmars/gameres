@@ -1,4 +1,4 @@
-Gme resources
+# Game resources
 
 - Game Icons - these icons are fun and easy to color
 - Open Game Art - get some great public domain assets
@@ -28,16 +28,16 @@ Gme resources
 - Super Game Asset - Buy 2D Game Resources, Game Icons, Isometric Sprite, Game Maps
 - 3D Models for Professionals :: TurboSquid
 
-References
+## References
 
 - https://medium.freecodecamp.com/learning-javascript-by-making-a-game-4aca51ad9030#.ftu01zb9f
 - https://www.manamark.com/blog/2016/09/22/20-free-game-assets-and-paid-gamedev/
 
-Blog
+## Blog
 
 - Game Art Tricks/Game Design Tricks
 
-Engine
+## Engine
 
 - [Unity3d](https://unity3d.com/)
 
@@ -46,8 +46,6 @@ The Unity Editor enables you to create 2D and 3D games, apps and experiences.
 The Unity Manual helps you learn how to use the Unity Editor and its associated Services.
 You can read the Manual from start to finish, or use it as a reference.
 ```
-
-
 
 - [Construct 2](https://www.scirra.com/construct2)
 
@@ -68,3 +66,6 @@ Xenko is an open-source C# game engine designed for the future of gaming.
 It comes with a full toolchain and is especially well suited to create realistic games but allows you much more!
 ```
 
+## Video Editor
+
+- [hitfilm](https://hitfilm.com/express)
