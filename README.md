@@ -69,3 +69,7 @@ It comes with a full toolchain and is especially well suited to create realistic
 ## Video Editor
 
 - [hitfilm](https://hitfilm.com/express)
+
+## Art
+
+- [いちあっぷ講座](https://ichi-up.net/)
