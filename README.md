@@ -66,9 +66,9 @@ It comes with a full toolchain and is especially well suited to create realistic
 ## Art
 
 - [いちあっぷ講座](https://ichi-up.net/)
-- [Tiled](http://www.mapeditor.org/)
+- [Tiled](http://www.mapeditor.org/) - Your free, easy to use and flexible tile map editor.
 
 ## Music
 
 - [dova-s](http://dova-s.jp/)
-- [game sounds](https://gamesounds.xyz/)
+- [game sounds](https://gamesounds.xyz/) - GameSounds.xyz - Royalty free music and sounds for your games.
