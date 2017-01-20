@@ -1,32 +1,25 @@
 # Game resources
 
-- Game Icons - these icons are fun and easy to color
-- Open Game Art - get some great public domain assets
-- Bulk Resize Photos - a great tool for making your own tiny icons
-- CSS Sprite Generator - helps you make CSS spritesheets for your icons
-- freepik
-- freesound
-- Blender 3D Model Download Repository | Blender-models.com
-- freeSFX.co.uk - Download Free Sound Effects
-- SVG and PNG icons for your games or apps | Game-icons.net
-- Game Building Tools
-- Glitch
-- Google Fonts
-- Kenney · Assets
-- Newgrounds.com — Audio Portal
-- OpenGameArt.org
-- Assets for your game
-- DaFont - Download fonts
-- Top game assets - itch.io
-- Game Art 2D - Royalty Free 2D Game Assets
-- Affordable Royalty Free Game Art!
-- GameDev Market | Game Assets for Indie Developers
-- Vector game graphics and 2D game art assets for Indie game developers
-- Game Sprites, Assets & Backgrounds from GraphicRiver
-- Mobile Game Graphics - Game Assets, Sprites and Pixel Art
-- Game Asset Store - 2D Game Asset Store
-- Super Game Asset - Buy 2D Game Resources, Game Icons, Isometric Sprite, Game Maps
-- 3D Models for Professionals :: TurboSquid
+- [Game Icons](http://game-icons.net/) - [FREE] These icons are fun and easy to color
+- [Open Game Art](http://opengameart.org/) - [FREE] 3D Models, Animation, Audio, Textures/Materials and 2D Characters
+- [Bulk Resize Photos](https://bulkresizephotos.com/) - A great tool for making your own tiny icons
+- [CSS Sprite Generator](http://spritegen.website-performance.org/) - Helps you make CSS spritesheets for your icons
+- [freepik](http://www.freepik.com/)
+- [freesound](https://www.freesound.org/)
+- [Blender 3D Model Download Repository](https://www.blender-models.com/) - [FREE] 3D Models, Particle Systems/Effects
+- [freeSFX.co.uk - Download Free Sound Effects](http://www.freesfx.co.uk/) [FREE] Audio
+- [Game Building Tools](http://gamebuildingtools.com/) - [FREE] Audio, Textures/Materials and 2D Characters
+- [Glitch](http://www.glitchthegame.com/) - Animation, Scripting, Textures/Materials and 2D Characters
+- [Google Fonts](https://fonts.google.com/) - [FREE] Fonts
+- [Kenney · Assets](http://www.kenney.nl/assets) - 3D Models, Audio, Textures/Materials and 2D Characters
+- [Newgrounds.com — Audio Portal](http://www.newgrounds.com/audio/) - [FREE] Audio
+- [Assets for your game](https://www.reddit.com/r/gameassets/) - [FREE] 3D Models, Animation, Audio, Particle Systems/Effects, Scripting, Textures/Materials and 2D Characters
+- [DaFont](http://www.dafont.com/) - [FREE/PAID] Fonts
+- [itch.io](https://itch.io/game-assets) - [FREE/PAID] 3D Models, Animation, Audio, Tools, Particle Systems/Effects, Scripting, Shaders, Textures/Materials and 2D Characters
+- [Game Art 2D](http://www.gameart2d.com/) - [FREE/PAID] Textures/Materials and 2D Characters
+- [Game Art Partners](https://gameartpartners.com/) - [PAID] Particle Systems/Effects, Textures/Materials and 2D Characters
+- [GameDev Market | Game Assets for Indie Developers](https://www.gamedevmarket.net/) - [FREE/PAID] 3D Models, Audio, Textures/Materials and 2D Characters
+- [Graphic Buffet](http://www.graphic-buffet.com/) - [FREE/PAID] Textures/Materials and 2D Characters
 
 ## References
 
