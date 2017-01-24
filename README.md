@@ -67,6 +67,7 @@ It comes with a full toolchain and is especially well suited to create realistic
 
 - [いちあっぷ講座](https://ichi-up.net/)
 - [Tiled](http://www.mapeditor.org/) - Your free, easy to use and flexible tile map editor.
+- [effekseer](https://effekseer.github.io/zh-tw/index.html) 粒子特效編輯器
 
 ## Music
 
